@@ -3,3 +3,6 @@ Hi, I am Priyanka K V, a student of Computer Science Engineering. This repositor
 Learning Python
 Interested in cloud computing
 Goal: contribute to open source
+## Projects
+
+I am currently working on a project to improve my web development skills.
